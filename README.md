@@ -1,1 +1,2 @@
-# Dblog-main
+# Dblog
+A blogging site made with MERN Stack
